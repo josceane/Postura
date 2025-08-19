@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lei-posturas-v1'; // altere para v3, v4, etc., a cada deploy
+const CACHE_NAME = 'lei-posturas-v2'; // altere para v4, v5, etc., a cada deploy
 const  FILES_TO_CACHE = [
   './',
   './index.html',
