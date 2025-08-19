@@ -177,3 +177,20 @@
 
   document.addEventListener('DOMContentLoaded', setup);
 })();
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/service-worker.js')
+    .then(reg => {
+      reg.onupdatefound = () => {
+        const installingWorker = reg.installing;
+        installingWorker.onstatechange = () => {
+          if (installingWorker.state === 'installed') {
+            if (navigator.serviceWorker.controller) {
+              // Nova versão disponível
+              alert('Nova versão disponível! Atualize a página.');
+              window.location.reload();
+            }
+          }
+        }
+      }
+    });
+}
