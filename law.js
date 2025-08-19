@@ -88,7 +88,8 @@ Art. 29 – Autoridades policiais e municipais devem ser avisadas das competiç�
 Art. 30 – Promotores de competições que usem veículos nas vias públicas devem submeter planos e itinerários à aprovação da Prefeitura e comprovar idoneidade financeira para cobrir danos.
 
 Seção IV – Dos Locais de Culto
-Art. 31 – Locais de culto devem ser limpos, iluminados e arejados, e não podem receber mais pessoas que sua capacidade.
+Art. 31 – Locais franqueados ao publico, nas igrejas, tempos ou casas de culto, deverão ser conservados limpos, iluminados e arejados.
+Parágrafo único - As igrejas, tempos e casas de cultos não poderão contar maior número de assistentes do que comporte suas instalações.
 
 Seção V – Do Trânsito Público
 Art. 32 – O trânsito é livre, regulamentado para manter ordem, segurança e bem-estar.
@@ -106,9 +107,22 @@ IV – amarrar animais em postes, árvores ou portas;
 V – deixar animais soltos em vias e praças;
 VI – atirar ou deixar objetos que incomodem transeuntes.
 § 1º – Veículos em vias interditadas serão removidos para depósito municipal.
-§ 2º – Excetuam-se carrinhos de criança ou de deficientes.
+§ 2º – Excetuam-se do dipositivo no inciso II, desde artigo, carrinhos de criança ou de deficientes fisicos e, en ruas de pequenos movimento, tricliclo de uso infantil.
 Art. 38 – Pontos de táxi ou transporte por tração animal serão determinados pela Prefeitura.
 Parágrafo único – Serviços de táxi podem instalar abrigos e bancos nos pontos com licença prévia.
+Art. 38 - Os pontos de estacionamento de veículos de aluguel, para transporte individual de passageiros ou não e de tração animal serão determinados pelo Poder Público Municipal de Marabá. (DMTU)
+Parágrafo Único – Os serviços de transporte de passageiros por táxi serão explorados diretamente pelo Poder Público Municipal de Marabá ou em regime de concessão, sendo facultativo aos concessionários ou permissionários, mediante licença prévia da Prefeitura Municipal, a instalação de abrigos, bancos e aparelhos telefônicos nos respectivos pontos. (DMTU)
+Art. 39 - Cabe ao Poder Público Municipal de Marabá fixar local e horário de funcionamento das áreas de carga e descarga, bem como de outros tipos de estacionamento em via pública. (SEGEFAZ)
+§ 1° - Os que fizerem uso de bicicletas, devem, entre outras, observar as seguintes regras: (DMTU)
+I – utilizar a mão de direção, nas ruas ou avenidas;
+II – não transitar nos passeios;
+III – transitar ao longo do meio fio e na mão de direção, nas ruas ou avenidas;
+IV – apresentar documentos comprobatórios de propriedade, e/ou (duas) testemunhas idôneas, em caso de apreensão do veículo, para a liberação do mesmo;
+V – não retirar o veículo do local até a lavratura do termo de ocorrência, em caso de acidente de qualquer tipo.
+Art. 41 - A não observância das regras contidas no artigo anterior sujeitará o condutor a ter o seu veículo apreendido por tempo não superior a 24 (vinte e quatro) horas, salvo nos finais de semana – sábado e domingo – ou feriados, quando a liberação somente ocorrerá no primeiro dia útil, após o recolhimento na rede bancária, da taxa de expediente devida pelo processamento da respectiva liberação. (DMTU)
+Art. 42 - Os veículos apreendidos serão recolhidos em local próprio indicado pelo Poder Público Municipal de Marabá. (DMTU)
+Art. 43 - Cumpre ao motorista respeitar a mão de direção em todas as ruas, estradas e vias públicas no âmbito do Município de Marabá. (DMTU)
+Art. 44 - Na infração a qualquer artigo deste capítulo, quando não prevista pena no Código de Trânsito Brasileiro, será imposta multa de leve a grave. (DMTU)
 
 Seção VI – Do Empachamento das Vias Públicas
 Art. 45 – Para comícios ou festas, coretos ou palanques só com aprovação prévia da Prefeitura, solicitada com 3 dias de antecedência.
