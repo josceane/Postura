@@ -113,7 +113,7 @@ Parágrafo único – Serviços de táxi podem instalar abrigos e bancos nos pon
 Art. 38 - Os pontos de estacionamento de veículos de aluguel, para transporte individual de passageiros ou não e de tração animal serão determinados pelo Poder Público Municipal de Marabá. (DMTU)
 Parágrafo Único – Os serviços de transporte de passageiros por táxi serão explorados diretamente pelo Poder Público Municipal de Marabá ou em regime de concessão, sendo facultativo aos concessionários ou permissionários, mediante licença prévia da Prefeitura Municipal, a instalação de abrigos, bancos e aparelhos telefônicos nos respectivos pontos. (DMTU)
 Art. 39 - Cabe ao Poder Público Municipal de Marabá fixar local e horário de funcionamento das áreas de carga e descarga, bem como de outros tipos de estacionamento em via pública. (SEGEFAZ)
-§ 1° - Os que fizerem uso de bicicletas, devem, entre outras, observar as seguintes regras: (DMTU)
+Art. 40 - Os que fizerem uso de bicicletas, devem, entre outras, observar as seguintes regras: (DMTU)
 I – utilizar a mão de direção, nas ruas ou avenidas;
 II – não transitar nos passeios;
 III – transitar ao longo do meio fio e na mão de direção, nas ruas ou avenidas;
